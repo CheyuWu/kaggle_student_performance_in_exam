@@ -1,4 +1,4 @@
-# kaggle_student_performance_in_exam
+# kaggle student performance in exam
 Students Performance in Exams B - Machine Learning
 
 ## Using decision_tree and random forest to fit the data
